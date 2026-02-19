@@ -79,5 +79,6 @@ Below is an example of foggy input image and its detection output:
 - Add dehazing pre-processing
 
 
-![Input](sample_images/input_foggy.png)
-![Output](sample_images/foggy_output.png)
+## 📸 Sample Output
+
+![Foggy Detection Output](sample_images/foggy_output.png)
