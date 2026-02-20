@@ -57,7 +57,7 @@ Below is an example of foggy input image and its detection output:
 3. Install dependencies:
 
 
-4. Update image directory paths in `main.py`
+4.  image directory paths in `https://github.com/Shalemrsju4092004/Autonomous-Driving-Fog-Detection/blob/main/main.py`
 
 5. Run script:
 
