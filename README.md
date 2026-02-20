@@ -42,7 +42,7 @@ The goal is to detect vehicles and objects under reduced visibility caused by fo
 
 Below is an example of foggy input image and its detection output:
 
-**(Insert your output image here)**
+**(https://github.com/Shalemrsju4092004/Autonomous-Driving-Fog-Detection/blob/main/sample_images/foggy_output.png)**
 
 ---
 
